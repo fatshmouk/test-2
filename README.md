@@ -1,13 +1,13 @@
-#MY PROJECT 
+# MY PROJECT 
 ----------
-##subtext
+## subtext
 ---
 **hello reader**
 ***
 elements
-*word
-*word
-*word
+* word
+* word
+* word
 ***
 ```cmd
 g++ FileName.cpp
