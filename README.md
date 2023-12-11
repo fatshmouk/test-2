@@ -2,7 +2,10 @@
 ----------
 ## subtext
 ---
-**hello reader**
+** hello reader **
+hello
+* hello *
+*** hello ***
 ***
 elements
 * word
